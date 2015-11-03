@@ -76,6 +76,6 @@ class Machine {
 }
 
 let FSM = {
-  machine: Machine
+  Machine: Machine
 }
 export = FSM;

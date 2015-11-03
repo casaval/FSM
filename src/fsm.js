@@ -65,6 +65,6 @@ var Machine = (function () {
     return Machine;
 })();
 var FSM = {
-    machine: Machine
+    Machine: Machine
 };
 module.exports = FSM;
